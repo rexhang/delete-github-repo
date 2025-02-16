@@ -1,0 +1,3 @@
+myusername/old-repo1
+myusername/old-repo2
+myusername/old-repo3
